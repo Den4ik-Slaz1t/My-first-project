@@ -1,0 +1,10 @@
+.content{
+  grid-area: c;
+  }
+.div img {
+  height: 100px;
+  width: 100px;
+}
+.profileColor{
+  background-color: #dcbaba;
+}

@@ -1,0 +1,33 @@
+.postsBlock {
+    padding: 10px;
+}
+.posts{
+     margin-top: 10px;
+}
+.button{
+    margin: 10px;
+    letter-spacing: 1px;
+    font-style:inherit;
+    text-transform: uppercase;
+    color: white;
+    background-color:#80B7B3;
+    font-size: 12px;
+    height: 30px;
+    width: 150px;
+    border: 1px solid #80B7B3;
+}
+.button:hover{
+    background-color:#3A5856;
+    border: #3A5856;
+
+}
+.textInput{
+    border: 1px solid #000;
+    height: 50px;
+    font-size: 18px;
+    width: 300px;
+    margin: 10px;
+}
+.textInput:focus{
+    box-shadow: 0 0 15px 0 #80B7B3;
+}
